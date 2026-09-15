@@ -1,10 +1,19 @@
 [
   {
 		"name": "Metro",
-		"terrainsCanBeBuiltOn": ["Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
-        "happiness": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 12,
 		"techRequired": "Engineering",
 		"uniques": ["Cannot be build", "Can only be built adjacent to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Gives a defensive bonus of [40]%", "Provides [+1] [Happiness]", "[+1 Gold] <after discovering [Economics]>", "[+1 Production] <after discovering [Industrialization]>", "[+1 Happiness] <after discovering [Replaceable Parts]"]
+  },
+
+  {
+		"name": "Film District",
+  	    "uniqueTo": "America",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains"],
+        "culture": 3,
+		"turnsToBuild": 12,
+		"techRequired": "Radio",
+		"uniques": ["Cannot be build", "Can only be built adjacent to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Cannot be built adjacent to [Film District"]
   }
 ]
