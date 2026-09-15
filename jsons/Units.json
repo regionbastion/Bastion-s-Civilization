@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Builder",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 100,
+		"requiredTech": "Construction",
+		"uniques": ["Can build [Metri] improvement", "Consumed upon building an improvement"]
+	},
+	
+	{
 		"name": "Trailblazer",
 		"unitType": "Gunpowder",
 		"uniqueTo": "America",
