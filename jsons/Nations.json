@@ -27,5 +27,11 @@
 
 		"uniqueName": "Founding Fathers",
 		"unique": ["[+25]% influence from [Gold] gifts to City-States <during war>", "[+15]% [Gold] <in cities connected to the capital> <starting from the [Industrial era]", "[+3 Culture] <starting from the [Modern era]>"]
+		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
+			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
+			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
+			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
+			"Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
+			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
 	}
 ]
