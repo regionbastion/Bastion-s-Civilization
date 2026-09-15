@@ -1,0 +1,10 @@
+[
+  {
+		"name": "Metro",
+		"terrainsCanBeBuiltOn": ["Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+    "happiness": 1,
+		"turnsToBuild": 12,
+		"techRequired": "Architecture",
+		"uniques": ["[+1 Gold] <after discovering [Economics]>", 
+  }
+]
