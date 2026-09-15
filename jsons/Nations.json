@@ -22,6 +22,8 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
+		"outerColor": [ 28,51,119],
+        "innerColor": [255,255,255],
 
 		"uniqueName": "Founding Fathers",
 		"unique": ["[+25]% influence from [Gold] gifts to City-States <during war>", "[+15]% [Gold] <in cities connected to the capital> <starting from the [Industrial era]", "[+3 Culture] <starting from the [Modern era]>"]
