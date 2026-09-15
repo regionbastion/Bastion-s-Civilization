@@ -5,7 +5,7 @@
 		"movement": 2,
 		"cost": 100,
 		"requiredTech": "Construction",
-		"uniques": ["Can build [Metri] improvement", "Consumed upon building an improvement"]
+		"uniques": ["Can build [Metro] improvement", "Consumed upon building an improvement"]
 	},
 	
 	{
