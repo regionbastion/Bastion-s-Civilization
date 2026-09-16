@@ -26,7 +26,7 @@
         "innerColor": [255,255,255],
 
 		"uniqueName": "Founding Fathers",
-		"unique": ["[+25]% influence from [Gold] gifts to City-States <during war>", 
+		"uniques": ["[+25]% influence from [Gold] gifts to City-States <during war>", 
 			"[+15]% [Gold] <in cities connected to the capital> <starting from the [Industrial era]", 
 			"[+3 Culture] <starting from the [Modern era]>"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
