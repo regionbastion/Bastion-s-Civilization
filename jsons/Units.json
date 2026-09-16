@@ -18,5 +18,21 @@
 		"requiredTech": "Industrialization",
 		"uniques": ["Ignores terrain cost", "[+2] Sight"],
 		"attackSound": "shot"
+	},
+
+	{
+		"name": "Jager",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Germany",
+		"movement": 2,
+		"strength": 35,
+		"cost": 250,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry"
+		"uniques": ["Ignores terrain cost"],
+		"promotions": ["Drill I"],
+		"attackSound": "shot"
 	}
 ]
