@@ -4,7 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 12,
 		"techRequired": "Engineering",
-		"uniques": ["Unbuildable", "Can be build by [Builder]", "Can only be built adjacent to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Gives a defensive bonus of [40]%", "Provides [+1] [Happiness]", "[+1 Gold] <after discovering [Economics]>", "[+1 Production] <after discovering [Industrialization]>", "[+1 Happiness] <after discovering [Replaceable Parts]"]
+		"uniques": ["Cannot be build by [Worker]", "Can be build by [Builder]", "Can only be built adjacent to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Gives a defensive bonus of [40]%", "Provides [+1] [Happiness]", "[+1 Gold] <after discovering [Economics]>", "[+1 Production] <after discovering [Industrialization]>", "[+1 Happiness] <after discovering [Replaceable Parts]"]
   },
 
   {
