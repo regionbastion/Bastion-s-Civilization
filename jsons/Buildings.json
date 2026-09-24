@@ -7,6 +7,6 @@
 		"percentGold": 33,
 		"isNationalWonder": true,
 		"requiredTech": "Economics",
-		"uniques": ["[+2 Gold] from [Market] <in this city>", "[+2 Gold] from [Bank] <in this city>", "[+2 Gold] from [Stock Exchange] <in this city>"]
+		"uniques": ["[+15]% [Gold] [in all cities]"]
 	}
 ]
