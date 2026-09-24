@@ -61,7 +61,7 @@
 		"uniqueName": "Wirtschaftswunder",
 		"uniques": ["[-33]% [Production] Unhappiness penalty", 
 			"[+20]% Production <during war>", 
-			"[-20]% Maintenance for [Production] buildings"],
+			"[+20]% Production <during a Golden Age>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
