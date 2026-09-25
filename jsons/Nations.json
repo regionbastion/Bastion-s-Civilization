@@ -27,8 +27,8 @@
 
 		"uniqueName": "Heart of the West",
 		"uniques": ["[+25]% influence from [Gold] gifts to City-States <during war>", 
-			"[Great Person] is earned [20]% faster">", 
-			"[+3]% [Culture] <starting from the [Industrial era]>"],
+			"[Great Person] is earned [20]% faster", 
+			"[+15]% [Culture] <starting from the [Industrial era]>"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
