@@ -26,7 +26,8 @@
         "innerColor": [255,255,255],
 
 		"uniqueName": "Heart of the West",
-		"uniques": ["[+25]% influence from [Gold] gifts to City-States <during war>", 
+		"uniques": [
+			"[+25]% influence from [Gold] gifts to City-States <during war>", 
 			"[Great Person] is earned [20]% faster", 
 			"[+15]% [Culture] <starting from the [Industrial era]>"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
@@ -59,7 +60,8 @@
 		"innerColor": [37, 43, 33],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Wirtschaftswunder",
-		"uniques": ["[-33]% [Production] Unhappiness penalty", 
+		"uniques": [
+			"[-33]% [Production] Unhappiness penalty", 
 			"[+20]% Production <during war>", 
 			"[+20]% Production <during a Golden Age>"],
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
@@ -68,5 +70,73 @@
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
 			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
 			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
-	}
+	},
+
+	{
+		"name": "Egypt",
+		"leaderName": "Ramesses II",
+		"adjective": ["Egyptian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Ramesses II",
+
+        "startIntroPart1": "O great Ramesses, Pharaoh of Egypt, bright as the Sun and mighty as the Nile! Lord of all living things, you lead the greatest of all civilizations, which has gifted the world with writing, advanced mathematics, sculpture, and architecture. Egyptian monuments and culture will continue to amaze the world for thousands of years.",
+        "startIntroPart2": "Mighty and eternal Ramesses, Egypt lasted for millenia, whereas other civilisations disappeared into dust after a few centuries. Amun-Ra blesses you again to lead Egypt and its people on the path of light. Will your new empire shine through the ages of history?",
+
+		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
+		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
+		"defeated": "Strike me down and my soul will torment yours forever, you have won nothing.",
+		"introduction": "Greetings, I am Ramesses the god. I am the living embodiment of Egypt, mother and father of all civilizations.",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Oh, it's you.",
+
+		"tradeRequest": "Generous Egypt makes you this offer.",
+
+		"outerColor": [255, 252, 3],
+		"innerColor": [83, 0, 208],
+		"favoredReligion": "Islam",
+		"uniqueName": "Gift of the Nile",
+		"uniques": [
+			"[+10]% Production when constructing [All] wonders [in all cities]", 
+			"[+15]% Production when constructing [All] buildings [in all cities]", 
+			"[+1 Production] from [{Farm} {River}] tiles"],
+		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
+			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
+			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
+			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
+			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"],
+	},
+
+	{
+		"name": "Byzantium",
+		"leaderName": "Justinian I",
+		"adjective": ["Byzantine"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "Gotta lock in",
+        "startIntroPart2": "Will your new empire shine through the ages of history?",
+
+        "declaringWar": ".",
+		"attacked": ".",
+		"defeated": ".",
+		"introduction": ".",
+		"neutralHello": ".",
+		"tradeRequest": ".",
+		"outerColor": [114, 162, 233],
+		"innerColor": [61, 0, 109],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Patriarchate of Constantinople",
+		"uniques": [
+			"[+25]% [Faith] <in holy cities>", 
+			"[+25]% [Faith] <in capital>", 
+			"May choose [1] additional belief(s) of any type when [enhancing] a religion"],
+
+		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
+			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
+			"Patra", "Korinthos"],
+        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
+    }
 ]
