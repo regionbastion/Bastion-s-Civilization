@@ -21,7 +21,7 @@
 		"requiredTech": "Philosophy"
 	}, 
 	{
-		"name": "Industry Monopolization", 
+		"name": "Monopolization", 
 		"cost": 560,
 		"isNationalWonder": true,
 		"requiredTech": "Robotics"
