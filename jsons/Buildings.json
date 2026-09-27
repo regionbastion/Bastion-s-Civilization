@@ -19,5 +19,11 @@
 		"requiredBuilding": "Shrine",
 		"uniques": ["[+1 Faith] per [2] population [in this city]"],
 		"requiredTech": "Philosophy"
+	}, 
+	{
+		"name": "Industry Monopolization", 
+		"cost": 560,
+		"isNationalWonder": true,
+		"requiredTech": "Robotics"
 	}
 ]
