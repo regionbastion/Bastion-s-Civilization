@@ -8,5 +8,16 @@
 		"isNationalWonder": true,
 		"requiredTech": "Economics",
 		"uniques": ["[+15]% [Gold] [in all cities]"]
+	},
+	{
+		"name": "Basilica",
+		"replaces": "Temple",
+		"uniqueTo": "Byzantium",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"uniques": ["[+1 Faith] per [2] population [in this city]"],
+		"requiredTech": "Philosophy"
 	}
 ]
