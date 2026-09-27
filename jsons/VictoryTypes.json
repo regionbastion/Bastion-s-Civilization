@@ -1,1 +1,9 @@
-
+[
+  {
+        "name": "Industrial",
+        "victoryScreenHeader": "Start monopolization and monopolize the world!",
+        "milestones": ["Build [Monopolization]"],
+        "victoryString": "You have achieved victory through the awesome power of your Industry. Your civilization's greatness - the magnificence of its factories and the power of its engineers - have astounded the world! Engineers will honor you as long as beauty brings gladness to a weary heart.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]
