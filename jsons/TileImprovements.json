@@ -4,7 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 12,
 		"techRequired": "Engineering",
-		"uniques": ["Unbuildable", "Must be next to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Gives a defensive bonus of [40]%", "[+1 Happiness, +1 Food]", "[+1 Gold] <after discovering [Economics]>", "[+1 Production] <after discovering [Industrialization]>", "[+1 Happiness] <after discovering [Replaceable Parts]"]
+		"uniques": ["Unbuildable", "Must be next to [City center]", "Removes removable features when built", "Will not be replaced by automated units", "Gives a defensive bonus of [40]%", "[+1 Happiness, +1 Food]", "[+1 Gold] <after discovering [Economics]>", "[+1 Production] <after discovering [Industrialization]>", "[+1 Happiness] <after discovering [Replaceable Parts]"]
   },
 
   {
@@ -14,7 +14,7 @@
         "culture": 3,
 		"turnsToBuild": 12,
 		"techRequired": "Radio",
-		"uniques": ["Unbuildable", "Must be next to [City Center]", "Removes removable features when built", "Will not be replaced by automated units"]
+		"uniques": ["Unbuildable", "Must be next to [City center]", "Removes removable features when built", "Will not be replaced by automated units"]
   }, 
 
   {
@@ -23,7 +23,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 12,
 		"techRequired": "Construction",
-		"uniques": ["Unbuildable", "Must be next to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "[+2 Faith]", "Gives a defensive bonus of [70]%"]
+		"uniques": ["Unbuildable", "Must be next to [City center]", "Removes removable features when built", "Will not be replaced by automated units", "[+2 Faith]", "Gives a defensive bonus of [70]%"]
   }
 
 	
