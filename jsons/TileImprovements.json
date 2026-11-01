@@ -4,7 +4,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 12,
 		"techRequired": "Engineering",
-		"uniques": ["Cannot be build by [Worker]", "Can be build by [Builder]", "Can only be built adjacent to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Gives a defensive bonus of [40]%", "Provides [+1] [Happiness]", "[+1 Gold] <after discovering [Economics]>", "[+1 Production] <after discovering [Industrialization]>", "[+1 Happiness] <after discovering [Replaceable Parts]"]
+		"uniques": ["Unbuildable", "Must be next to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Gives a defensive bonus of [40]%", "[+1 Happiness, +1 Food]", "[+1 Gold] <after discovering [Economics]>", "[+1 Production] <after discovering [Industrialization]>", "[+1 Happiness] <after discovering [Replaceable Parts]"]
   },
 
   {
@@ -14,6 +14,17 @@
         "culture": 3,
 		"turnsToBuild": 12,
 		"techRequired": "Radio",
-		"uniques": ["Unbuildable", "Can only be built adjacent to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "Cannot be built adjacent to [Film District"]
+		"uniques": ["Unbuildable", "Must be next to [City Center]", "Removes removable features when built", "Will not be replaced by automated units"]
+  }, 
+
+  {
+		"name": "District of Constantinople",
+  	    "uniqueTo": "Byzantium",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 12,
+		"techRequired": "Construction",
+		"uniques": ["Unbuildable", "Must be next to [City Center]", "Removes removable features when built", "Will not be replaced by automated units", "[+2 Faith]", "Gives a defensive bonus of [70]%"]
   }
+
+	
 ]
