@@ -28,7 +28,7 @@
 		"uniqueName": "Heart of the West",
 		"uniques": [
 			"Gifts of Gold to City-States generate [25]% more Influenc", 
-			"[All] Great People are earned [20]% faster", 
+			"[+20]% Great Person generation [in all cite]", 
 			"[+15]% [Culture] <starting from the [Industrial era]>"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
@@ -196,7 +196,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Ktistes",
 		"uniques": ["Starts with [Pottery]", 
-			"[All] Great People are earned [+20]% faster", 
+			"[+20]% Great People generation [in all cities]", 
 			"[+4 Science] from every [Great Improvement]"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
