@@ -1,0 +1,12 @@
+[
+
+	{
+		"name": "The Great Warpath",
+		"uniques": ["Can build [Road] improvements on tiles"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Siege","Archery","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
+		"innerColor": [195,53,43],
+		"outerColor": [253,236,234],
+        "row": 0,
+        "column": 8
+    }
+]
