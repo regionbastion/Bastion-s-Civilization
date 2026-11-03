@@ -29,7 +29,7 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production] from [Forest] tiles [in this city]", "[+1 Production] from [Bonus resource] tiles [in this city]", "[+5]% [Production] from [{Worked} {Forest}] tiles [In this city]"],
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]", "[+1 Production] from [Bonus resource] tiles [in this city]", "[+5]% [Production] from every [{Worked} {Forest}] tiles [In this city]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
