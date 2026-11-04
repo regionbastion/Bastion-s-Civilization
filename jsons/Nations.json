@@ -276,5 +276,34 @@
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
 			"Schoharie","Bay of Quinte","Kanawale","Kanatsiokareke","Tyendinaga","Hahta"],
         "spyNames": ["Onatah", "Oneida", "Oshadagea", "Otetiani", "Genesee", "Dadgayadoh", "Otwtiani", "Kateri", "Onondakai", "Honanyawus"]
+    }, 
+		{
+		"name": "Siam",
+		"leaderName": "Ramkhamhaeng",
+		"adjective": ["Siamese"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType":"Diplomatic",
+		"personality": "Ramkhamhaeng",
+
+        "startIntroPart1": "O Great King Ramkhamhaeng, the Siamese people obey you with respect and fear! The beautiful and mysterious land of Siam is an ancient country in the heart of Southeast Asia, which was besieged by many foes, plagued by bloody war and great poverty, but eventually the smart and loyal Siamese people have endured and triumphed. Siam was a part of the Khmer Empire until the 13th century AD, before its brave people took arms and led a revolution to form the small Sukhothai kingdom. After many battles and diplomacy prowess, this tiny kingdom became a mighty empire, which would dominate South East Asia for more than a century.",
+        "startIntroPart2": "Wise and powerful King Ramkhamhaeng, your people want to revive these days of glory! Can you make a new dawn break on Siam? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "You lowly, arrogant fool! I will make you regret of your insolence!",
+		"attacked": "You scoundrel! I shall prepare to fend you off!",
+		"defeated": "Although I lost, my honor shall endure. I wish you good luck.",
+		"introduction": "I, Pho Kun Ramkhamhaeng, King of Siam, consider it a great honor that you have walked to visit my country of Siam.",
+		"neutralHello": "Welcome.",
+		"hateHello": "Greetings.",
+		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+		"outerColor": [245, 230, 55],
+		"innerColor": [177, 8, 3],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Primate City",
+		"uniques": ["[+8]% [Food] from Trade Routes [in capital]", "[+8]% [Production] from Trade Routes [in capital]"],
+		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
+			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
+			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
+			"Ban Phai","Loci","Khon Kaen","Surin"],
+        "spyNames": ["Aran", "Chanarong", "Kiet", "Niran", "Virote", "Kulap", "Mayuree", "Phueng", "Ratana", "Tola"]
     }
 ]
