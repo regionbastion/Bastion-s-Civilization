@@ -37,5 +37,10 @@
 		"cost": 560,
 		"isNationalWonder": true,
 		"requiredTech": "Robotics"
+	}, 
+	{
+		"name": "Siamese Unique", 
+		"cost": 0,
+		"unique": "Unbuildable", "[+8]% [Production] [in the capital]", "[+8]% [Food] [in the capital]"
 	}
 ]
