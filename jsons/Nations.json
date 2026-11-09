@@ -329,11 +329,9 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Vive la France",
-		"unique": [
-			"[+10]% [Culture] from every [{Culture} {Wonder}]",
+		"unique": ["[+10]% [Culture] from every [{Culture} {Wonder}]",
 			"[+5]% Strength", 
-			"[+5]% Strength <when fighting in [Foreign land] tiles>"
-		],
+			"[+5]% Strength <when fighting in [Foreign land] tiles>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
