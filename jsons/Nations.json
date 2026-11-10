@@ -299,7 +299,8 @@
 		"innerColor": [177, 8, 3],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Primate City",
-		"uniques": ["[+8]% [Food] from Trade Routes [in capital]", "[+8]% [Production] from Trade Routes [in capital]"],
+		"uniqueText": "+8% [Food] from every Trade Routes for capital. +8% [Production] from every Trade Routes for capital", 
+		"uniques": ["Gain a free [Siamese unique] [in all cities connected to capital]"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
@@ -329,7 +330,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Vive la France",
-		"uniques": ["[+10]% [Culture] from every [{Culture} {Wonder}]", "[+5]% Strength", "[+5]% Strength <when fighting in [Foreign land] tiles>"],
+		"uniques": ["[+10]% [Culture] from every [{Culture} {Wonder}]", "[+5]% Strength", "[+10]% Strength <when fighting in [Foreign land] tiles>"],
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
 			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
 			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
