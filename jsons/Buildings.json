@@ -41,6 +41,6 @@
 	{
 		"name": "Siamese Unique", 
 		"cost": 0,
-		"unique": "Unbuildable", "[+8]% [Production] [in the capital]", "[+8]% [Food] [in the capital]"
+		"unique": "Unbuildable", "[+8]% [Production] [in the capital]", "[+8]% [Food] [in the capital]", "Will not be displayed in Civilopedia"]
 	}
 ]
