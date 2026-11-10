@@ -300,7 +300,7 @@
 		"favoredReligion": "Buddhism",
 		"uniqueName": "Primate City",
 		"uniqueText": "+8% [Food] from every Trade Routes for capital. +8% [Production] from every Trade Routes for capital", 
-		"uniques": ["Gain a free [Siamese unique] [in all cities connected to capital]"],
+		"uniques": ["Gain a free [Siamese Unique] [in all cities connected to capital]", "[+8]% [Production] from every [Siamese Unique] [in capital]", "[+8]% [Food] from every [Siamese Unique] [in capital]"],
 		"cities": ["Sukhothai","Si Satchanalai","Muang Saluang","Lampang","Phitsanulok","Kamphaeng Pet","Nakhom Chum","Vientiane",
 			"Nakhon Si Thammarat","Martaban","Nakhon Sawan","Chainat","Luang Prabang","Uttaradit","Chiang Thong","Phrae",
 			"Nan","Tak","Suphanburi","Hongsawadee","Thawaii","Ayutthaya","Taphan Hin","Uthai Thani","Lap Buri","Ratchasima",
