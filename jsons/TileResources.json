@@ -1,6 +1,17 @@
 [
-  {
-    "name": "Political Power", 
-		"uniques": ["Stockpiled"]
-  }
+	{
+		"name": "Political Power", 
+		"uniques": "Stockpiled"
+	},
+
+	{
+		"name": "Great Work"
+		"uniques": [
+			"Stockpiled",
+			"Excluded from mad editor", 
+			"Doesn't generate naturally", 
+			"Not shown on world screen", 
+			"Cannot be traded"
+		]
+	}
 ]
