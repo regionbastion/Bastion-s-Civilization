@@ -34,5 +34,13 @@
 		"uniques": ["Ignores terrain cost"],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
+	}, 
+
+	{
+		"name": "Great Artist", 
+		"unitType": "Civilian", 
+		"uniques": ["Instantly provide [1] [Great Work] <by consuming this unit>", 
+			"Great Person - [Culture]"]
+		"movement": 2
 	}
 ]
