@@ -29,7 +29,7 @@
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production] from [Forest] tiles [in this city]", "[+1 Production] from [Bonus resource] tiles [in this city]", "[+5]% [Production] from every [{Worked} {Forest}] tiles"],
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]", "[+1 Production] from [Bonus resource] tiles [in this city]", "[+5]% [Production] from every [{Worked} {Forest}]"],
 		"requiredTech": "Metal Casting"
 	},
 	{
@@ -41,6 +41,6 @@
 	{
 		"name": "Siamese Unique", 
 		"cost": 0,
-		"unique": "Unbuildable", "[+8]% [Production] [in the capital]", "[+8]% [Food] [in the capital]", "Will not be displayed in Civilopedia"]
+		"unique": ["Unbuildable", "[+8]% [Production] [in the capital]", "[+8]% [Food] [in the capital]", "Will not be displayed in Civilopedia"]
 	}
 ]
