@@ -13,5 +13,10 @@
 			"Not shown on world screen", 
 			"Cannot be traded"
 		]
+	}, 
+
+	{
+		"name": "Great Work Slot"
+		"uniques": ["City-level resource", "Cannot be traded"]
 	}
 ]
