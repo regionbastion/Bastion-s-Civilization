@@ -6,8 +6,8 @@
 
 	{
 		"name": "Great Work"
+		"resourceType": "Strategic", 
 		"uniques": [
-			"Stockpiled",
 			"Excluded from mad editor", 
 			"Doesn't generate naturally", 
 			"Not shown on world screen", 
@@ -17,6 +17,7 @@
 
 	{
 		"name": "Great Work Slot"
+		"resourceType": "Strategic", 
 		"uniques": ["City-level resource", "Cannot be traded"]
 	}
 ]
