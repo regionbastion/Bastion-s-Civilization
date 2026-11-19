@@ -41,12 +41,12 @@
 	{
 		"name": "Siamese Unique", 
 		"cost": 0,
-		"unique": ["Unbuildable", "[+8]% [Production] [in the capital]", "[+8]% [Food] [in the capital]", "Will not be displayed in Civilopedia"]
+		"uniques": ["Unbuildable", "[+8]% [Production] [in the capital]", "[+8]% [Food] [in the capital]", "Will not be displayed in Civilopedia"]
 	}, 
 	{
 		"name": "Great Work Slots"
 		"culture": 2,
 		"cost": 0,
-		"unique": ["Cost [1] [Great Work Slot]", "Only available <with [Great Work Slot]>", "Automatically built in all cities where it is buildable"]
+		"uniques": ["Cost [1] [Great Work Slot]", "Only available <with [Great Work Slot]>", "Automatically built in all cities where it is buildable"]
 	}
 ]
